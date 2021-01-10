@@ -1,0 +1,103 @@
+{
+  "drone1" : {
+    "Busy" : "n",
+    "Name" : 1,
+    "Service" : "Service",
+    "position_X" : 5,
+    "position_Y" : 17
+  },
+  "drone2" : {
+    "Busy" : "n",
+    "Name" : 2,
+    "Service" : "Service",
+    "position_X" : "3",
+    "position_Y" : "4"
+  },
+  "request" : {
+    "Finish x" : "3",
+    "Finish y" : "1",
+    "active" : "inActive",
+    "startPos x" : "3",
+    "startPos y" : "14"
+  },
+  "rooms" : {
+    "Entry1" : {
+      "ID" : 8,
+      "name" : "Entry1",
+      "position_X" : 4,
+      "position_Y" : 14
+    },
+    "Foobar" : {
+      "ID" : 1,
+      "name" : "Foobar",
+      "position_X" : 1,
+      "position_Y" : 14
+    },
+    "L50" : {
+      "ID" : 4,
+      "name" : "L50",
+      "position_X" : 1,
+      "position_Y" : 4
+    },
+    "L70" : {
+      "ID" : 7,
+      "name" : "L70",
+      "position_X" : 9,
+      "position_Y" : 4
+    },
+    "Lilla hörsalen" : {
+      "ID" : 6,
+      "name" : "Lilla hörsalen",
+      "position_X" : 5,
+      "position_Y" : 3
+    },
+    "Lunchrum" : {
+      "ID" : 3,
+      "name" : "Lunchrum",
+      "position_X" : 1,
+      "position_Y" : 13
+    },
+    "MediaLabb" : {
+      "ID" : 5,
+      "name" : "MediaLabb",
+      "position_X" : 4,
+      "position_Y" : 5
+    },
+    "Seminarium 3" : {
+      "ID" : 2,
+      "name" : "Seminarium 3",
+      "position_X" : 4,
+      "position_Y" : 14
+    },
+    "Trappa" : {
+      "ID" : 9,
+      "name" : "Trappa",
+      "position_X" : 4,
+      "position_Y" : 3
+    },
+    "WC1" : {
+      "ID" : 10,
+      "name" : "WC1",
+      "position_X" : 2,
+      "position_Y" : 14
+    },
+    "WC2" : {
+      "ID" : 11,
+      "name" : "WC2",
+      "position_X" : 4,
+      "position_Y" : 2
+    },
+    "WC3" : {
+      "ID" : 12,
+      "name" : "WC3",
+      "position_X" : 7,
+      "position_Y" : 2
+    },
+    "entry" : {
+      "ID" : 1,
+      "name" : "entry",
+      "position_X" : 5,
+      "position_Y" : 23
+    }
+  }
+}
